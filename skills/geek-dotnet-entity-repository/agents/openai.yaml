@@ -1,0 +1,3 @@
+interface:
+  display_name: Connection Entity Repository
+  short_description: Scaffold entities and repositories for schema-based Connection projects.
