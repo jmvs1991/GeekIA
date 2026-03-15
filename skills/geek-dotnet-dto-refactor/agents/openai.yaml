@@ -1,3 +1,0 @@
-interface:
-  display_name: "DTO Refactor"
-  short_description: "Refactor existing DTOs to the team pattern while preserving mapping logic."
