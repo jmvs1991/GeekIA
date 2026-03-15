@@ -1,0 +1,3 @@
+interface:
+  display_name: "Geek Dotnet Dto Refactor"
+  short_description: "Refactor existing DTO files to the Geek .NET DTO inheritance and mapping pattern."
