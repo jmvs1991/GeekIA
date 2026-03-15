@@ -1,0 +1,3 @@
+interface:
+  display_name: "Geek Dotnet Sp Refactor"
+  short_description: "Refactor legacy .NET SP models into SpBase/SpBaseEnc classes"
