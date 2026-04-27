@@ -1,0 +1,3 @@
+interface:
+  display_name: "Geek Dotnet DB Migration"
+  short_description: "Manage .NET database migrations with Geek CLI MCP tools."
