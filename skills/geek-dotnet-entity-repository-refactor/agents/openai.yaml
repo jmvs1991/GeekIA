@@ -1,2 +1,5 @@
 interface:
-  display_name: "Entity Repository Refactor"
+  display_name: Geek Dotnet Entity Repository Refactor
+  short_description: Refactor C# connection entities and generate repositories with geek-cli.
+  icon: code
+  brand_color: '#512BD4'
